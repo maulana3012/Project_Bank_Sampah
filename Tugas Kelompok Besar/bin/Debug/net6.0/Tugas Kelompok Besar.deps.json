@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tugas Kelompok Besar/1.0.0": {
+        "runtime": {
+          "Tugas Kelompok Besar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tugas Kelompok Besar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

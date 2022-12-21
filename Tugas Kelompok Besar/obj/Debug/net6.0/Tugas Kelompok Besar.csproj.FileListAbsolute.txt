@@ -1,0 +1,15 @@
+D:\Apps\Apps\Tugas Kelompok Besar\Tugas Kelompok Besar\bin\Debug\net6.0\Tugas Kelompok Besar.exe
+D:\Apps\Apps\Tugas Kelompok Besar\Tugas Kelompok Besar\bin\Debug\net6.0\Tugas Kelompok Besar.deps.json
+D:\Apps\Apps\Tugas Kelompok Besar\Tugas Kelompok Besar\bin\Debug\net6.0\Tugas Kelompok Besar.runtimeconfig.json
+D:\Apps\Apps\Tugas Kelompok Besar\Tugas Kelompok Besar\bin\Debug\net6.0\Tugas Kelompok Besar.dll
+D:\Apps\Apps\Tugas Kelompok Besar\Tugas Kelompok Besar\bin\Debug\net6.0\Tugas Kelompok Besar.pdb
+D:\Apps\Apps\Tugas Kelompok Besar\Tugas Kelompok Besar\obj\Debug\net6.0\Tugas Kelompok Besar.csproj.AssemblyReference.cache
+D:\Apps\Apps\Tugas Kelompok Besar\Tugas Kelompok Besar\obj\Debug\net6.0\Tugas Kelompok Besar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\Apps\Tugas Kelompok Besar\Tugas Kelompok Besar\obj\Debug\net6.0\Tugas Kelompok Besar.AssemblyInfoInputs.cache
+D:\Apps\Apps\Tugas Kelompok Besar\Tugas Kelompok Besar\obj\Debug\net6.0\Tugas Kelompok Besar.AssemblyInfo.cs
+D:\Apps\Apps\Tugas Kelompok Besar\Tugas Kelompok Besar\obj\Debug\net6.0\Tugas Kelompok Besar.csproj.CoreCompileInputs.cache
+D:\Apps\Apps\Tugas Kelompok Besar\Tugas Kelompok Besar\obj\Debug\net6.0\Tugas Kelompok Besar.dll
+D:\Apps\Apps\Tugas Kelompok Besar\Tugas Kelompok Besar\obj\Debug\net6.0\refint\Tugas Kelompok Besar.dll
+D:\Apps\Apps\Tugas Kelompok Besar\Tugas Kelompok Besar\obj\Debug\net6.0\Tugas Kelompok Besar.pdb
+D:\Apps\Apps\Tugas Kelompok Besar\Tugas Kelompok Besar\obj\Debug\net6.0\Tugas Kelompok Besar.genruntimeconfig.cache
+D:\Apps\Apps\Tugas Kelompok Besar\Tugas Kelompok Besar\obj\Debug\net6.0\ref\Tugas Kelompok Besar.dll
